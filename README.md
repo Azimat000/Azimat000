@@ -40,7 +40,7 @@ Frontend-разработчик 💻, собираю аккуратные инт
   <a href="https://t.me/AzamatSibgatullin">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:azamat.i.sibgatullin@gmail.com">
+  <a href="mailto:sibaza000@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
