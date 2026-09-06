@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE) [![views](https://komarev.com/ghpvc/?username=Azimat000&style=flat-square&color=brightgreen&label=views)](https://github.com/Azimat000)
+[![views](https://komarev.com/ghpvc/?username=Azimat000&style=flat-square&color=brightgreen&label=views)](https://github.com/Azimat000)
 
 ## Hi there 👋 I'm Azamat Sibgatullin,
 
