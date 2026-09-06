@@ -21,6 +21,10 @@ Frontend-разработчик 💻, собираю аккуратные инт
   <img src="https://skillicons.dev/icons?i=vite,npm,git,github,docker,sqlite,latex" alt="skills" />
 </p>
 
+<p align="center">
+  <sub>REST API / Fetch API &nbsp;·&nbsp; React Router &nbsp;·&nbsp; SSR &nbsp;·&nbsp; тестирование &nbsp;·&nbsp; Chrome DevTools &nbsp;·&nbsp; Claude Code &nbsp;·&nbsp; OpenAI Codex</sub>
+</p>
+
 ---
 
 <p align="center">
